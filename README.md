@@ -1,4 +1,8 @@
 Azure-Active-Directory
+![image](https://user-images.githubusercontent.com/43515480/228856513-3ab0c6c1-a27b-4ec2-9544-1e1d598bc504.png)
+![image](https://user-images.githubusercontent.com/43515480/228857591-3b745f75-4751-4e2a-990b-74e0419ed836.png)
+![image](https://user-images.githubusercontent.com/43515480/228858056-c6cf952d-0fe4-4519-86f1-57ae504bacc8.png)
+
 ![image](https://user-images.githubusercontent.com/43515480/228842601-afa34287-5979-46ed-8200-ddcf83722a54.png)
 ![image](https://user-images.githubusercontent.com/43515480/228842666-c3d0079a-95bd-431f-8deb-8aa841f5683e.png)
 ![image](https://user-images.githubusercontent.com/43515480/228842708-54ea5b01-cf0a-4639-949b-da5518ddf184.png)
